@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "frontends",
+  "info": {
+    "singularName": "frontend",
+    "pluralName": "frontends",
+    "displayName": "Frontend"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "persentase": {
+      "type": "integer"
+    }
+  }
+}
